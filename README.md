@@ -1,3 +1,3 @@
 # Demo_project
 To learn about github
-<br>Author : Anupama N
+<br>Author : Anupama N(My Name)
